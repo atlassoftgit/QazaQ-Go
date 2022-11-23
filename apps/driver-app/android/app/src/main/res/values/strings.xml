@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_new_request_title">Новый заказ</string>
+  <string name="notification_new_request_body">Доступен новый заказ.</string>
+  <string name="notification_new_message_title">Новое сообщение</string>
+  <string name="notification_paid_title">Оплачено!</string>
+  <string name="notification_paid_body">Произведена оплата поездки!</string>
+  <string name="notification_cancel_title">Поездка отменена</string>
+  <string name="notification_cancel_body">Ваша предстоящая поездка была отменена.</string>
+  <string name="notification_assigned_title">Поездка была забронирована</string>
+  <string name="notification_assigned_body">Привет! Вам назначена забронированная поездка, запланирована на %1$s. От: %2$s -> %3$s.</string>
+  <string name="notification_upcoming_ride_title">Предстоящая поездка</string>
+  <string name="notification_upcoming_ride_body">Привет! У вас есть предстоящая поездка менее чем через 10 минут.</string>
+</resources>

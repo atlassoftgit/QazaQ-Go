@@ -1,0 +1,132 @@
+{
+  "project_info": {
+    "project_number": "256464857564",
+    "project_id": "qazaq-go",
+    "storage_bucket": "qazaq-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256464857564:android:d4c8da055c4f72f46b4719",
+        "android_client_info": {
+          "package_name": "com.qazaq.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256464857564-4c38fdm824fqlfm7botd49ib4u5h9q1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.driver",
+            "certificate_hash": "4cfbf1fcf1fa5c5db2f6cb96b94f3378c5cf5cb4"
+          }
+        },
+        {
+          "client_id": "256464857564-bt3hp2fetdgspg3qp1qmrvbmqgb0udm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.driver",
+            "certificate_hash": "d660f1dc074d0ea74d7df62641b865769d2bf0c4"
+          }
+        },
+        {
+          "client_id": "256464857564-eqkl30oppp6277ip02u0rtt6fjusrbar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.driver",
+            "certificate_hash": "279a9fc34616d7bc9b421301bfac330e625297bd"
+          }
+        },
+        {
+          "client_id": "256464857564-h921uqv0r2bu31elckpalm8r96bbk8bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.driver",
+            "certificate_hash": "2bf870922a8a8622a5e132bec993df23d7dd3689"
+          }
+        },
+        {
+          "client_id": "256464857564-tq6v6u0g9kfdobg02trsdd0g065rnfr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElINH5lM6XXM4CSMHcysot8IeiJEyX7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256464857564-tq6v6u0g9kfdobg02trsdd0g065rnfr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256464857564:android:db355b49ac94c6c06b4719",
+        "android_client_info": {
+          "package_name": "com.qazaq.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256464857564-deleiaqcdf712tqi30o3vqjnrcmhtc1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.rider",
+            "certificate_hash": "d660f1dc074d0ea74d7df62641b865769d2bf0c4"
+          }
+        },
+        {
+          "client_id": "256464857564-ocbb9buai6ntm6bjah1cm7hl975b2th8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.rider",
+            "certificate_hash": "3fb3cc01354efc86fef3e01a528e99957e16af4d"
+          }
+        },
+        {
+          "client_id": "256464857564-tc23sk7260thpdbhehe5qs9vlflarp5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.rider",
+            "certificate_hash": "4cfbf1fcf1fa5c5db2f6cb96b94f3378c5cf5cb4"
+          }
+        },
+        {
+          "client_id": "256464857564-vftom8rncirhsmcsf4d9lifudno9jbtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazaq.taxi.rider",
+            "certificate_hash": "279a9fc34616d7bc9b421301bfac330e625297bd"
+          }
+        },
+        {
+          "client_id": "256464857564-tq6v6u0g9kfdobg02trsdd0g065rnfr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElINH5lM6XXM4CSMHcysot8IeiJEyX7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256464857564-tq6v6u0g9kfdobg02trsdd0g065rnfr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+"notification_new_request_title" = "Новый заказ";
+"notification_new_request_body" = "Доступен новый заказ";
+"notification_new_message_title" = "Сообщение от клиента";
+"notification_paid_title" = "Оплачено!";
+"notification_paid_body" = "Поездка оплачена";
+"notification_cancel_title" = "Отменено";
+"notification_cancel_body" = "Ваша поездка была отменена";
+"notification_assigned_title" = "Назначен";
+"notification_assigned_body" = "Привет! Вы были назначены на забронированную поездку, запланированную на %@. от: %@ -> %@.";

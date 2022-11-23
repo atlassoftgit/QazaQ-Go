@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>256464857564-0qsr3r6lsosolvjhh5af6p47fent2rnl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.256464857564-0qsr3r6lsosolvjhh5af6p47fent2rnl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>256464857564-4c38fdm824fqlfm7botd49ib4u5h9q1d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5OktDKn4o09Oq7_rgyLmQHguvXWGNmxA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256464857564</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qazaq.taxi.rider</string>
+	<key>PROJECT_ID</key>
+	<string>qazaq-go</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qazaq-go.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256464857564:ios:ec4fcf3abc67f6f46b4719</string>
+</dict>
+</plist>

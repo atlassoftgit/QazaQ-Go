@@ -1,0 +1,56 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:client_shared/components/sheet_title_view.dart';
+
+import '../generated/l10n.dart';
+
+class WaitTimeSheetView extends StatelessWidget {
+  final items = [3, 5, 10, 15, 20, 30, 40, 60];
+  int selectedMinute = 0;
+
+  WaitTimeSheetView({required this.selectedMinute, Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return SafeArea(
+      minimum: const EdgeInsets.all(16),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          SheetTitleView(
+            title: S.of(context).title_wait_time,
+            closeAction: () => Navigator.pop(context),
+          ),
+          SizedBox(
+            height: 150,
+            child: CupertinoPicker.builder(
+              itemExtent: 45,
+              childCount: items.length,
+              onSelectedItemChanged: (index) => selectedMinute = items[index],
+              itemBuilder: (context, index) {
+                return Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Text(
+                      "${items[index]} minutes",
+                      style: Theme.of(context).textTheme.titleLarge,
+                    ),
+                  ],
+                );
+              },
+            ),
+          ),
+          SizedBox(
+            width: double.infinity,
+            child: ElevatedButton(
+              onPressed: () {
+                Navigator.pop(context, selectedMinute);
+              },
+              child: Text(S.of(context).action_confirm),
+            ),
+          )
+        ],
+      ),
+    );
+  }
+}

@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  exclude:
+    - "**.g.dart"
+    - "**.graphql.dart"
+
+linter:
+  rules:
+    sort_pub_dependencies: true
