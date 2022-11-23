@@ -124,7 +124,7 @@
               "apps/admin-panel/src/styles.scss"
             ],
             "scripts": []
-          },
+          }, 
           "defaultConfiguration": "development",
           "configurations": {
             "production": {
